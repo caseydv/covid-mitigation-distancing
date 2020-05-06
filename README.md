@@ -17,7 +17,7 @@ According to the World Health Organization and the CDC, social distancing is cur
 - Deaths  <br>
 - Recovered <br>
 
-**Google Mobility Reports** [link] (https://www.google.com/covid19/mobility/)
+**Google Mobility Reports** [link](https://www.google.com/covid19/mobility/)
 - Country/Region <br>
 - Sub Region <br>
 - Date <br>
@@ -37,3 +37,13 @@ According to the World Health Organization and the CDC, social distancing is cur
 - URL to source of more information  <br>
 - Systematic keyword labels (e.g. "travel ban" or "hygiene enforcement")  <br>
 
+_Used Pyspark to process data_
+
+### Other Libraries 
+- Pandas <br>
+- Numpy <br>
+- Matplotlib <br>
+- Seaborn <br>
+- wordcloud <br>
+- Plotly <br>
+- statsmodels <br>
